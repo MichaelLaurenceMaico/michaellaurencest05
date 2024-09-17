@@ -37,26 +37,26 @@
                 <th colspan="3" class="event-name">Event Details</th>
             </tr>
             <tr>
-                <th>Event Name</th>
+                <th>Name of Event</th>
                 <th>Date</th>
                 <th>Location</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Music Festival</td>
-                <td>October 10, 2024</td>
-                <td>Central Park, NYC</td>
+                <td>San Juan Festival</td>
+                <td>Jun 24, 2024</td>
+                <td>Manila city, Metromanila</td>
             </tr>
             <tr>
-                <td>Tech Conference</td>
-                <td>November 5, 2024</td>
-                <td>Convention Center, San Francisco</td>
+                <td>Balayong Festival</td>
+                <td>March 24, 2024</td>
+                <td>Balayong park, Puerto Princesa</td>
             </tr>
             <tr>
-                <td>Art Exhibition</td>
-                <td>December 1, 2024</td>
-                <td>Gallery Art Space, Chicago</td>
+                <td>Feast of Forest</td>
+                <td>Feb 08, 2024</td>
+                <td>Irawan, Puerto Princesa </td>
             </tr>
         </tbody>
     </table>
